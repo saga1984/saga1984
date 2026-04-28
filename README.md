@@ -1,5 +1,4 @@
 ## Hi there 👋Welcome to my GitHub Page
-## Hi there 👋
 
 # Santiago Galvan, PhD
 
