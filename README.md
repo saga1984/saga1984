@@ -7,7 +7,7 @@
 - PhD-level scientist with expertise in **molecular biology, genetic engineering, bioinformatics, and omics data analysis**.
 - Focused on building **reproducible and publication-ready bioinformatics workflows**.
 - Experience in **molecular biology, genomics, and data interpretation**.
-- Programming in **R, Bash/Shell, Python, and Git workflows**.
+- Programming in **R, Bash/Shell and Python workflows**.
 - Development of pipelines for **genomics, transcriptomics, visualization, and statistical analysis**.
 
 ---
