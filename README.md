@@ -34,7 +34,8 @@
 ## 🌐 Links
 
 - GitHub: https://github.com/saga1984  
-- LinkedIn: https://www.linkedin.com/in/santiagovalentingalvangordillo  
+- LinkedIn: https://www.linkedin.com/in/santiagovalentingalvangordillo
+- Web-page (in development): https://saga1984.github.io/portfolio/ 
 
 ---
 
